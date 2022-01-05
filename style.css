@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 55px;
+    
+
+
+}
+
+
+.first-headline-border{
+   
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(19, 141, 84) , rgb(52, 214, 87)) 30;
+    border-image-slice: 1;
+}
+
+.purple-color{
+     color: rgb(179, 32, 236);
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(99, 206, 99); ;
+    padding: 10px 20px;
+    border-radius: 2%;
+    font-weight: 700px;
+}
+a{
+    color: white;
+}
