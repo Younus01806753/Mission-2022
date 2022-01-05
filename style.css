@@ -12,8 +12,12 @@ h1{
 .first-headline-border{
    
     border-left: 7px solid;
-    border-image: linear-gradient(rgb(19, 141, 84) , rgb(52, 214, 87)) 30;
+    border-image: linear-gradient(rgb(177, 9, 255) , rgb(136, 101, 61)) 30;
     border-image-slice: 1;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
 }
 
 .purple-color{
@@ -21,11 +25,31 @@ h1{
 }
 .link-button{
     text-decoration: none;
-    background-color: rgb(99, 206, 99); ;
+    background-color:  rgb(179, 32, 236);
     padding: 10px 20px;
     border-radius: 2%;
     font-weight: 700px;
 }
 a{
     color: white;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 5%;
+    padding-right: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.half-width img{
+    width: 70%;
+
+    
+}
+.section-of-blog{
+    background-color: rgb(46, 175, 175);
+    padding: 20px 20px 20px 20px;
+    margin: 20px 20px 20px 20px;
+
 }
