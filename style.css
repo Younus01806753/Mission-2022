@@ -17,7 +17,7 @@ h1{
 }
 .flexible-container{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 120px;
 }
 
 .purple-color{
@@ -48,8 +48,60 @@ a{
     
 }
 .section-of-blog{
-    background-color: rgb(46, 175, 175);
+    
     padding: 20px 20px 20px 20px;
-    margin: 20px 20px 20px 20px;
+    margin: 60px 60px 60px 60px;
+    border-radius: 10px;
 
 }
+#blog-1-color{
+    background-color: #800080;
+}
+#blog-2-color{
+    background-color:#d527b7  ;
+}
+#blog-3-color{
+    background-color:#f782c2  ;
+}
+.image-size{
+    width: 25%;
+}
+#blog-text-color{
+    color: white;
+}
+#heading-align-center{
+    text-align: center;
+    font-size: 60px;
+    
+    
+}
+#develop-portion{
+    font-size: 40px;
+}
+h3{
+    font-size: 35px;
+}
+#coding-img-background{
+    background-image: url(Image/shapes/shape-9.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 350px;
+
+}
+#footer-div-id{
+      background-color: rgb(27, 23, 49);
+}
+#footer-mission{
+      
+    text-align: center;
+    font-size: 50px;
+    color: snow;
+}
+.fotter-2022{
+    color: violet;
+}
+footer p{
+        text-align: center;
+        color: white;
+}
+     
